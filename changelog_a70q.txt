@@ -7,4 +7,4 @@ Device maintainer: Haky86
      01-14-2023
 ====================
 
-* Initial release.
+* Testing OTA.
