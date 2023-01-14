@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Haky86",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230114-a70q-v9.1.zip",
+			"download": "https://sourceforge.net/projects/haky86/files/SamsungGalaxyA70/ROMs/Android-13.x/crDroid/crDroidAndroid-13.0-20230114-a70q-v9.1.zip/download",
+			"timestamp": 1673716122,
+			"md5": "3dd89f07638643815cf6003563e7ebc5",
+			"sha256": "e64e78aaaebc56ec1eacbe271bdedf8f537876b141362c959494d87b728d295f",
+			"size": 1085632546,
+			"version": "9.1",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Haky86",
+			"dt": "https://github.com/a70q-dev/android_device_samsung_a70q",
+			"common-dt": "",
+			"kernel": "https://github.com/a70q-dev/android_kernel_samsung_sm6150"
+		}
+	]
+}
